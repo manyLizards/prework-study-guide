@@ -1,6 +1,7 @@
 # Prework Study Guide Webpage
 
-## This webpage will help students going through the UT bootcamp follow along with the coursework. It will answer questions that we may have throughout the course. It covers HTML, CSS, Git, and JavaScript.
+## Description
+This webpage will help students going through the UT bootcamp follow along with the coursework. It will answer questions that we may have throughout the course. It covers HTML, CSS, Git, and JavaScript.
 
 ## Installation
 
@@ -16,4 +17,4 @@ N/A
 
 ## License
 
-MIT license
+MIT license / refer to the LICENSE in the repo.
